@@ -1,34 +1,36 @@
 import crowdImage from "@/assets/protest-crowd.jpg";
 import factoryImage from "@/assets/protest-factory.jpg";
 import signImage from "@/assets/protest-sign.jpg";
-
-const images = [
-  {
-    src: crowdImage,
-    alt: "Massive crowd of protesters in Gabes demanding action against pollution",
-    caption: "Thousands gather to demand the closure of the GCT plant",
-  },
-  {
-    src: factoryImage,
-    alt: "Protesters near the chemical factory with smoke and tear gas in the air",
-    caption: "Tear gas and burning tires fill the streets during protests",
-  },
-  {
-    src: signImage,
-    alt: "Child holding a 'Stop Pollution' sign at the protest",
-    caption: "Young residents demand clean air and a safe future",
-  },
-];
+import { useTranslation } from 'react-i18next';
 
 const Gallery = () => {
+  const { t } = useTranslation();
+
+  const images = [
+    {
+      src: crowdImage,
+      alt: t('gallery.images.crowd.alt'),
+      caption: t('gallery.images.crowd.caption'),
+    },
+    {
+      src: factoryImage,
+      alt: t('gallery.images.factory.alt'),
+      caption: t('gallery.images.factory.caption'),
+    },
+    {
+      src: signImage,
+      alt: t('gallery.images.sign.alt'),
+      caption: t('gallery.images.sign.caption'),
+    },
+  ];
   return (
     <section className="py-20 px-4 bg-muted/30">
       <div className="container mx-auto max-w-6xl">
         <h2 className="mb-4 text-center text-4xl font-bold text-foreground sm:text-5xl">
-          Voices of Resistance
+          {t('gallery.title')}
         </h2>
         <p className="mb-12 text-center text-lg text-muted-foreground">
-          The people of Gabes are standing up against decades of environmental injustice
+          {t('gallery.subtitle')}
         </p>
         
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">

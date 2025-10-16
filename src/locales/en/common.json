@@ -1,0 +1,118 @@
+{
+  "hero": {
+    "title": "Stand With Gabes",
+    "subtitle": "Fight Environmental Injustice. Protect Our Health.",
+    "description": "The people of Gabes, Tunisia are suffering from decades of toxic pollution. Over 120 hospitalized in October 2025 alone. It's time to act.",
+    "learnMore": "Learn More"
+  },
+  "navigation": {
+    "home": "Home",
+    "crisis": "Crisis",
+    "gallery": "Gallery", 
+    "action": "Take Action",
+    "resources": "Resources"
+  },
+  "crisis": {
+    "title": "The Crisis in Gabes",
+    "stats": {
+      "pollution": "95%",
+      "pollutionLabel": "of Gabes' air pollution comes from GCT emissions",
+      "hospitalized": "120+",
+      "hospitalizedLabel": "people hospitalized in October 2025 due to toxic leaks",
+      "decades": "Decades",
+      "decadesLabel": "of toxic waste discharged into the Gulf of Gabes"
+    },
+    "content": {
+      "paragraph1": "Gabes, Tunisia is facing an unprecedented environmental and health emergency. The state-owned Chemical Group of Tunisia (GCT) phosphate-processing plant has been poisoning the city for decades, causing severe air and water pollution.",
+      "paragraph2": "In October 2025, a major gas leak sent over 120 people to hospitals, including children who developed paralysis. Residents report increased respiratory problems, cancer rates, and chronic health conditions linked to the toxic emissions.",
+      "paragraph3": "The plant processes raw phosphate into fertilizer, discharging toxic waste directly into the Gulf of Gabes—one of the most polluted sites in the Mediterranean. This pollution has devastated marine life, turned waters dark, and destroyed the livelihoods of local fishermen.",
+      "paragraph4": "Despite government promises to relocate or modernize the plant, no meaningful action has been taken. Tunisia's National Observatory for Agriculture has repeatedly warned that air quality in Gabes exceeds WHO limits, with dangerous levels of sulfur dioxide and ammonia.",
+      "quote": "Our entire lives have been ruined by the smells and smoke we inhale every day. We want this complex dismantled, and we will not stop until it happens.",
+      "quoteAttribution": "— Hanen, 30-year-old Gabes resident"
+    }
+  },
+  "gallery": {
+    "title": "Voices of Resistance",
+    "subtitle": "The people of Gabes are standing up against decades of environmental injustice",
+    "images": {
+      "crowd": {
+        "alt": "Massive crowd of protesters in Gabes demanding action against pollution",
+        "caption": "Thousands gather to demand the closure of the GCT plant"
+      },
+      "factory": {
+        "alt": "Protesters near the chemical factory with smoke and tear gas in the air",
+        "caption": "Tear gas and burning tires fill the streets during protests"
+      },
+      "sign": {
+        "alt": "Child holding a 'Stop Pollution' sign at the protest",
+        "caption": "Young residents demand clean air and a safe future"
+      }
+    }
+  },
+  "action": {
+    "title": "How You Can Help",
+    "subtitle": "Every action counts. Stand in solidarity with the people of Gabes.",
+    "actions": {
+      "petition": {
+        "title": "Sign the Petition",
+        "description": "Add your voice to demand action from the Tunisian government",
+        "cta": "Sign Now"
+      },
+      "share": {
+        "title": "Spread Awareness",
+        "description": "Share this page and raise global awareness about Gabes",
+        "cta": "Share"
+      },
+      "donate": {
+        "title": "Support Local NGOs",
+        "description": "Donate to organizations fighting for environmental justice in Tunisia",
+        "cta": "Donate"
+      }
+    }
+  },
+  "resources": {
+    "title": "Resources & Information",
+    "sections": {
+      "reports": {
+        "title": "Official Reports",
+        "items": [
+          "Tunisia National Observatory for Agriculture - Air Quality Reports",
+          "GCT Environmental Audit (July 2025)",
+          "World Health Organization - Air Quality Guidelines"
+        ]
+      },
+      "organizations": {
+        "title": "Environmental Organizations",
+        "items": [
+          "Tunisian Association for Environmental Protection",
+          "Mediterranean Environmental Network",
+          "Greenpeace Mediterranean"
+        ]
+      },
+      "contact": {
+        "title": "Contact & Learn More",
+        "items": [
+          "Follow #StandWithGabes on social media",
+          "Contact local environmental NGOs in Tunisia",
+          "Email: info@standwithgabes.org (example)"
+        ]
+      }
+    },
+    "president": {
+      "title": "President Saied's Response",
+      "quote": "Serious failures were found in maintenance and testing that led to gas leaks. There will be no tolerance for those who neglected their duties. The people of Gabes will receive their full rights.",
+      "attribution": "— Tunisian President Kais Saied, October 2025"
+    }
+  },
+  "footer": {
+    "title": "Stand With Gabes",
+    "subtitle": "Fighting for environmental justice and the health of Gabes, Tunisia",
+    "dedication": "This website is dedicated to raising awareness about the environmental crisis in Gabes."
+  },
+  "language": {
+    "select": "Select Language",
+    "english": "English",
+    "french": "Français", 
+    "arabic": "العربية"
+  }
+}

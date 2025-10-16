@@ -1,36 +1,38 @@
 import { Heart, Share2, FileText, ExternalLink } from "lucide-react";
 import { Button } from "@/components/ui/button";
-
-const actions = [
-  {
-    icon: FileText,
-    title: "Sign the Petition",
-    description: "Add your voice to demand action from the Tunisian government",
-    cta: "Sign Now",
-  },
-  {
-    icon: Share2,
-    title: "Spread Awareness",
-    description: "Share this page and raise global awareness about Gabes",
-    cta: "Share",
-  },
-  {
-    icon: Heart,
-    title: "Support Local NGOs",
-    description: "Donate to organizations fighting for environmental justice in Tunisia",
-    cta: "Donate",
-  },
-];
+import { useTranslation } from 'react-i18next';
 
 const TakeAction = () => {
+  const { t } = useTranslation();
+
+  const actions = [
+    {
+      icon: FileText,
+      title: t('action.actions.petition.title'),
+      description: t('action.actions.petition.description'),
+      cta: t('action.actions.petition.cta'),
+    },
+    {
+      icon: Share2,
+      title: t('action.actions.share.title'),
+      description: t('action.actions.share.description'),
+      cta: t('action.actions.share.cta'),
+    },
+    {
+      icon: Heart,
+      title: t('action.actions.donate.title'),
+      description: t('action.actions.donate.description'),
+      cta: t('action.actions.donate.cta'),
+    },
+  ];
   return (
     <section className="py-20 px-4 bg-primary text-primary-foreground">
       <div className="container mx-auto max-w-6xl">
         <h2 className="mb-4 text-center text-4xl font-bold sm:text-5xl">
-          How You Can Help
+          {t('action.title')}
         </h2>
         <p className="mb-12 text-center text-lg opacity-90">
-          Every action counts. Stand in solidarity with the people of Gabes.
+          {t('action.subtitle')}
         </p>
 
         <div className="grid gap-8 md:grid-cols-3">

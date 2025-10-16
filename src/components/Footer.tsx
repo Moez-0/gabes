@@ -1,13 +1,17 @@
+import { useTranslation } from 'react-i18next';
+
 const Footer = () => {
+  const { t } = useTranslation();
+  
   return (
     <footer className="bg-foreground py-8 px-4 text-background">
       <div className="container mx-auto max-w-6xl text-center">
-        <p className="mb-2 text-lg font-semibold">Stand With Gabes</p>
+        <p className="mb-2 text-lg font-semibold">{t('footer.title')}</p>
         <p className="text-sm opacity-80">
-          Fighting for environmental justice and the health of Gabes, Tunisia
+          {t('footer.subtitle')}
         </p>
         <p className="mt-4 text-xs opacity-60">
-          This website is dedicated to raising awareness about the environmental crisis in Gabes.
+          {t('footer.dedication')}
         </p>
       </div>
     </footer>

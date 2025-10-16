@@ -25,7 +25,7 @@ const resources = [
     items: [
       "Follow #StandWithGabes on social media",
       "Contact local environmental NGOs in Tunisia",
-      "Email: info@standwithgabes.org (example)",
+      "Email: gabes@nafsiya.tn (example)",
     ],
   },
 ];

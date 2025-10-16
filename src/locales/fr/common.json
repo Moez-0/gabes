@@ -1,0 +1,118 @@
+{
+  "hero": {
+    "title": "Soutenez Gabès",
+    "subtitle": "Luttez contre l'injustice environnementale. Protégez notre santé.",
+    "description": "La population de Gabès, en Tunisie, souffre de décennies de pollution toxique. Plus de 120 personnes hospitalisées en octobre 2025 seulement. Il est temps d'agir.",
+    "learnMore": "En savoir plus"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "crisis": "Crise",
+    "gallery": "Galerie",
+    "action": "Agir", 
+    "resources": "Ressources"
+  },
+  "crisis": {
+    "title": "La crise à Gabès",
+    "stats": {
+      "pollution": "95%",
+      "pollutionLabel": "de la pollution atmosphérique de Gabès provient des émissions de GCT",
+      "hospitalized": "120+",
+      "hospitalizedLabel": "personnes hospitalisées en octobre 2025 à cause de fuites toxiques",
+      "decades": "Décennies",
+      "decadesLabel": "de déchets toxiques déversés dans le golfe de Gabès"
+    },
+    "content": {
+      "paragraph1": "Gabès, en Tunisie, fait face à une urgence environnementale et sanitaire sans précédent. L'usine de traitement de phosphate du Groupe chimique tunisien (GCT), propriété de l'État, empoisonne la ville depuis des décennies, causant une grave pollution de l'air et de l'eau.",
+      "paragraph2": "En octobre 2025, une fuite de gaz majeure a envoyé plus de 120 personnes à l'hôpital, y compris des enfants qui ont développé une paralysie. Les résidents signalent une augmentation des problèmes respiratoires, des taux de cancer et des conditions de santé chroniques liés aux émissions toxiques.",
+      "paragraph3": "L'usine transforme le phosphate brut en engrais, déversant des déchets toxiques directement dans le golfe de Gabès — l'un des sites les plus pollués de la Méditerranée. Cette pollution a dévasté la vie marine, assombri les eaux et détruit les moyens de subsistance des pêcheurs locaux.",
+      "paragraph4": "Malgré les promesses gouvernementales de délocaliser ou moderniser l'usine, aucune action significative n'a été prise. L'Observatoire national d'agriculture de Tunisie a répété que la qualité de l'air à Gabès dépasse les limites de l'OMS, avec des niveaux dangereux de dioxyde de soufre et d'ammoniac.",
+      "quote": "Nos vies entières ont été ruinées par les odeurs et la fumée que nous respirons chaque jour. Nous voulons que ce complexe soit démantelé, et nous n'arrêterons pas jusqu'à ce que cela arrive.",
+      "quoteAttribution": "— Hanen, résidente de Gabès âgée de 30 ans"
+    }
+  },
+  "gallery": {
+    "title": "Voix de la résistance",
+    "subtitle": "Le peuple de Gabès se dresse contre des décennies d'injustice environnementale",
+    "images": {
+      "crowd": {
+        "alt": "Foule massive de manifestants à Gabès exigeant des actions contre la pollution",
+        "caption": "Des milliers se rassemblent pour exiger la fermeture de l'usine GCT"
+      },
+      "factory": {
+        "alt": "Manifestants près de l'usine chimique avec de la fumée et des gaz lacrymogènes dans l'air",
+        "caption": "Gaz lacrymogènes et pneus brûlants remplissent les rues pendant les manifestations"
+      },
+      "sign": {
+        "alt": "Enfant tenant une pancarte 'Stop Pollution' lors de la manifestation",
+        "caption": "Les jeunes résidents exigent un air pur et un avenir sûr"
+      }
+    }
+  },
+  "action": {
+    "title": "Comment vous pouvez aider",
+    "subtitle": "Chaque action compte. Solidarité avec le peuple de Gabès.",
+    "actions": {
+      "petition": {
+        "title": "Signez la pétition",
+        "description": "Ajoutez votre voix pour exiger des actions du gouvernement tunisien",
+        "cta": "Signer maintenant"
+      },
+      "share": {
+        "title": "Sensibilisez",
+        "description": "Partagez cette page et sensibilisez le monde à Gabès",
+        "cta": "Partager"
+      },
+      "donate": {
+        "title": "Soutenez les ONG locales",
+        "description": "Faites un don aux organisations qui luttent pour la justice environnementale en Tunisie",
+        "cta": "Faire un don"
+      }
+    }
+  },
+  "resources": {
+    "title": "Ressources et informations",
+    "sections": {
+      "reports": {
+        "title": "Rapports officiels",
+        "items": [
+          "Observatoire national d'agriculture de Tunisie - Rapports sur la qualité de l'air",
+          "Audit environnemental GCT (juillet 2025)",
+          "Organisation mondiale de la santé - Directives sur la qualité de l'air"
+        ]
+      },
+      "organizations": {
+        "title": "Organisations environnementales",
+        "items": [
+          "Association tunisienne de protection de l'environnement",
+          "Réseau environnemental méditerranéen",
+          "Greenpeace Méditerranée"
+        ]
+      },
+      "contact": {
+        "title": "Contact et en savoir plus",
+        "items": [
+          "Suivez #StandWithGabes sur les réseaux sociaux",
+          "Contactez les ONG environnementales locales en Tunisie",
+          "Email: info@standwithgabes.org (exemple)"
+        ]
+      }
+    },
+    "president": {
+      "title": "Réponse du président Saied",
+      "quote": "Des défaillances graves ont été trouvées dans la maintenance et les tests qui ont conduit aux fuites de gaz. Il n'y aura aucune tolérance pour ceux qui ont négligé leurs devoirs. Le peuple de Gabès recevra tous ses droits.",
+      "attribution": "— Président tunisien Kais Saied, octobre 2025"
+    }
+  },
+  "footer": {
+    "title": "Soutenez Gabès",
+    "subtitle": "Lutter pour la justice environnementale et la santé de Gabès, Tunisie",
+    "dedication": "Ce site web est dédié à la sensibilisation sur la crise environnementale à Gabès."
+  },
+  "language": {
+    "select": "Choisir la langue",
+    "english": "English",
+    "french": "Français",
+    "arabic": "العربية"
+  }
+}
